@@ -1,0 +1,6 @@
+### metadata.yaml ###
+name: astrbot_plugin_64gua  # 插件唯一标识
+desc: 通过金钱卦指令发送随机六十四卦图片  # 插件描述
+version: v1.0.0  # 版本号
+author: 雨爲/yuweitk  # 作者
+repo: https://github.com/yuweitk/astrbot_plugin_64gua  # 插件仓库地址
