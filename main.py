@@ -9,7 +9,7 @@ import astrbot.api.message_components as Comp
 PLUGIN_DIR = os.path.dirname(__file__)
 IMAGE_DIR = os.path.join(PLUGIN_DIR, "64gua")
 
-@register("astrbot_plugin_64gua", "IamAGod", "周易金钱卦插件", "1.0.0")
+@register("astrbot_plugin_64gua", "yuweitk", "周易金钱卦插件", "1.0.0")
 class GuaPlugin(Star):
     def __init__(self, context: Context):
         super().__init__(context)
